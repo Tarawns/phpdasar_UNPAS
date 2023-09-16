@@ -1,6 +1,6 @@
 <?php
-echo date("l", mktime(0,0,0,3,16,2003));
-echo "Date and Time";
+echo date("l", mktime(0,0,0,11,26,2002));
+
 // Date = untuk menampilkan tanggal dengan format tertentu
 /*
     l = nama hari (saat ini)
